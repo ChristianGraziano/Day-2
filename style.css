@@ -1,0 +1,107 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+main {
+   width: 50%;
+   margin: auto;
+
+
+}
+header img {
+    height: 50px;
+    display: flex;
+    margin: auto;
+    padding: 20px;
+
+}
+
+#first-p {
+  background-color: rgb(253, 247, 231);  
+    text-align: center;
+    margin-bottom: 50px;
+    height: 40px;
+    border-top: solid 1px orange;
+    font-size: 13px;
+
+}
+span {
+    font-weight: bold;
+}
+
+.intro {
+    text-align: center;
+}
+.intro h1 {
+    font-size: 2.5em;
+}
+
+#p1{
+    text-align: left;
+}
+ 
+.intro img {
+    align-items:center;
+    border-radius: 10px;
+}
+
+
+
+#featured h3 {
+    color: brown;
+    margin: 0;
+    border-left: solid 1px orange;
+    padding-left: 15px;
+}
+ 
+.intro p {
+    color: grey;
+}
+
+#featured a {
+    color: rgb(0, 141, 99);
+    border-left: solid 1px orange;
+    padding-left: 15px;
+}
+
+#featured {
+    padding: 20px;
+    padding-left: 0;
+    padding-bottom: 20px;
+}
+
+.intro h1 { 
+    padding: 15px;
+}
+
+#p1 {
+    color: black;
+}
+
+.ingredients h2 {
+    padding: 20px;
+    padding-left: 0;
+    border-bottom: solid 1px rgb(229, 241, 252);
+
+}
+.ingredients li {
+    padding: 10px;
+}
+
+.method h2 {
+    padding: 20px;
+    border-bottom: solid 1px  rgb(229, 241, 252);
+}
+.method li {
+    font-weight: bold;
+}
+footer p {
+    padding-top: 3px;
+    
+}
+footer a {
+    color: rgb(0, 141, 99) ;
+}
+main img {
+    width: 100%;
+}
